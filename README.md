@@ -31,6 +31,8 @@ level, or navigate from this list:
 
   ![](level_1/resources/1_2.gif?raw=true)
 
+- [level_2](level_2/LEVEL_2.md) 
+
 
 P.S.  
 Sorry for my ugly face I'll find a model for future tests 😂
