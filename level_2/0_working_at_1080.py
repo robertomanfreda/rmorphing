@@ -2,9 +2,11 @@ from __future__ import print_function
 from imutils import face_utils
 import dlib
 import cv2 as cv
+import sys
 
+current_file_name = sys.argv[0]
+FRAME_NAME = current_file_name.split('.')[0]
 PREDICTOR_PATH = '../opencv_utils/predictors/shape_predictor_68_face_landmarks.dat'
-FRAME_NAME = 'level_2 - 0_performance_optimizations'
 
 cv.namedWindow(FRAME_NAME, cv.WND_PROP_FULLSCREEN)
 cv.setWindowProperty(FRAME_NAME, cv.WND_PROP_FULLSCREEN, cv.WINDOW_FULLSCREEN)

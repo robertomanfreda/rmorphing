@@ -1,7 +1,9 @@
 from __future__ import print_function
 import cv2 as cv
+import sys
 
-FRAME_NAME = 'level_0 - 0_videocapture'
+current_file_name = sys.argv[0]
+FRAME_NAME = current_file_name.split('.')[0]
 
 def detect_and_display(frame):
     cv.imshow(FRAME_NAME, frame)

@@ -17,3 +17,8 @@ As you can see, in the upper left side corner, the FPS counter decreased until 5
 Let's see what we can do for mitigate this side effect.
 
 ---
+
+## step_1 --> 0_working_at_1080.py
+
+
+---
