@@ -2,8 +2,7 @@ from __future__ import print_function
 import dlib
 import cv2 as cv
 import sys
-sys.path.append('../opencv_utils/lib')  # faceBlendCommon
-import faceBlendCommon as fbc
+
 
 PREDICTOR_PATH = '../opencv_utils/predictors/shape_predictor_68_face_landmarks.dat'
 FRAME_NAME = 'level_1 - landmark_detector'
