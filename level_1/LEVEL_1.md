@@ -1,5 +1,8 @@
 # LEVEL_1
 
+In this level we setup a basic non-optimized videocapture and we'll start to do some facial 
+recognition and landmarks detection thinking also about future performance issues.
+ 
 ---
 
 ## step_0 --> 0_videocapture.py

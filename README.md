@@ -30,3 +30,7 @@ level, or navigate from this list:
 - [level_1](level_1/LEVEL_1.md)  
 
   ![](level_1/resources/1_2.gif?raw=true)
+
+
+P.S.  
+Sorry for my ugly face I'll find a model for future tests 😂

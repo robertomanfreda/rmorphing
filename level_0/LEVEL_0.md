@@ -1,5 +1,7 @@
 # LEVEL_0
 
+In this level we are going to verify all previously installations.  
+
 ---
 
 ## step_0 --> 0_verify_python_installation.py
