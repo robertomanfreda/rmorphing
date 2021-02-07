@@ -26,4 +26,7 @@ In each level you will find samples and explanations, just read the LEVEL_x.md t
 level, or navigate from this list:  
 
 - [level_0](level_0/LEVEL_0.md)
-- [level_1](level_1/LEVEL_1.md)
+  
+- [level_1](level_1/LEVEL_1.md)  
+
+  ![](level_1/resources/1_2.gif?raw=true)
