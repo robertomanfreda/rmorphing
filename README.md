@@ -22,9 +22,8 @@ A Python based repository containing a lot of stuff about facial recognition and
 # Infos
 
 The project is structured in levels (folders).  
-In each level you will find samples and explanations.  
+In each level you will find samples and explanations, just read the LEVEL_x.md that you'll respectively find for each
+level, or navigate from this list:  
 
-- level_0
-- level_1
-- level_2
-- level_3
+- [level_0](level_0/LEVEL_0.md)
+- [level_1](level_1/LEVEL_1.md)
