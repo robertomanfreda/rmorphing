@@ -18,7 +18,6 @@ def detect_and_display(frame):
     for (i, rect) in enumerate(rects):
         shape = predictor(frame_gray, rect)
         shape = face_utils.shape_to_np(shape)
-        (x, y, w, h) = face_utils.rect_to_bb(rect)
         for (x, y) in shape:
             cv.circle(frame, (x, y), 1, (0, 0, 255), -1)
 
