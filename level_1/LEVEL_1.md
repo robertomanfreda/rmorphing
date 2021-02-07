@@ -18,3 +18,12 @@ real-time landmark detection.
 The output should be something similar:  
 
 ![](resources/1_1.png?raw=true)
+
+---
+
+### step_2 --> 2_landmark_detector_fps.py  
+
+This step is the same as above but an FPS counter was added in order to track performance issues.
+The output should be something similar:  
+
+![](resources/1_2.png?raw=true)
