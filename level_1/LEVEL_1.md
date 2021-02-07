@@ -27,3 +27,4 @@ This step is the same as above but an FPS counter was added in order to track pe
 The output should be something similar:  
 
 ![](resources/1_2.png?raw=true)
+![](resources/1_2.gif?raw=true)
