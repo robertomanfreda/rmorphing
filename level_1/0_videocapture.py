@@ -1,7 +1,7 @@
 from __future__ import print_function
 import cv2 as cv
 
-FRAME_NAME = 'level_0 - videocapture'
+FRAME_NAME = 'level_0 - 0_videocapture'
 
 def detect_and_display(frame):
     cv.imshow(FRAME_NAME, frame)

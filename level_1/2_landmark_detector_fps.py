@@ -4,7 +4,7 @@ import dlib
 import cv2 as cv
 
 PREDICTOR_PATH = '../opencv_utils/predictors/shape_predictor_68_face_landmarks.dat'
-FRAME_NAME = 'level_1 - landmark_detector'
+FRAME_NAME = 'level_1 - 2_landmark_detector_fps'
 
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor(PREDICTOR_PATH)
